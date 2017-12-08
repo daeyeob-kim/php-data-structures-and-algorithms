@@ -1,0 +1,10 @@
+[21-Nov-2017 12:02:43 UTC] PHP Warning:  require(/data_structures/Stack.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/algorithms/4장/test.php on line 2
+[21-Nov-2017 12:02:43 UTC] PHP Stack trace:
+[21-Nov-2017 12:02:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/algorithms/4장/test.php:0
+[21-Nov-2017 12:02:43 UTC] PHP Fatal error:  require(): Failed opening required '/data_structures/Stack.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/algorithms/4장/test.php on line 2
+[21-Nov-2017 12:02:43 UTC] PHP Stack trace:
+[21-Nov-2017 12:02:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/algorithms/4장/test.php:0
+[21-Nov-2017 12:12:25 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/data_structures/Stack.php on line 21
+[21-Nov-2017 12:12:25 UTC] PHP Stack trace:
+[21-Nov-2017 12:12:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/algorithms/4장/test.php:0
+[21-Nov-2017 12:12:25 UTC] PHP   2. Stack->push() /home/ubuntu/workspace/algorithms/4장/test.php:5
